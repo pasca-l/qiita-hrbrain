@@ -1,1 +1,2 @@
-this folder is required to upload assets
+# Assets folder
+this folder is required to upload assets, for public url
